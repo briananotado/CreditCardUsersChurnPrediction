@@ -1,4 +1,4 @@
-| [@github.com/briananotado/CreditCardUsersChurnPrediction](https://github.com/briananotado/CreditCardUsersChurnPrediction) |
+[@github.com/briananotado/CreditCardUsersChurnPrediction](https://github.com/briananotado/CreditCardUsersChurnPrediction)
 
 ### Context
 
